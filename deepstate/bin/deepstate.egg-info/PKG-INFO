@@ -1,0 +1,11 @@
+Metadata-Version: 1.0
+Name: deepstate
+Version: 0.1
+Summary: DeepState augments C/C++ Test-Driven Development with Symbolic Execution
+Home-page: https://github.com/trailofbits/deepstate
+Author: Peter Goodman
+Author-email: peter@trailofbits.com
+License: Apache-2.0
+Description: UNKNOWN
+Keywords: tdd testing symbolic execution
+Platform: UNKNOWN

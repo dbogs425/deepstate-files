@@ -1,1 +1,0 @@
-/usr/bin/c++   -std=c++11 -O3 -O3   CMakeFiles/Primes.dir/Primes.cpp.o  -o Primes -rdynamic ../libdeepstate.a 

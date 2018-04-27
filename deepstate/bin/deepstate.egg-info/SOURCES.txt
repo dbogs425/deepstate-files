@@ -1,0 +1,11 @@
+setup.py
+/root/distributive_test/deepstate/bin/deepstate/__init__.py
+/root/distributive_test/deepstate/bin/deepstate/common.py
+/root/distributive_test/deepstate/bin/deepstate/main_angr.py
+/root/distributive_test/deepstate/bin/deepstate/main_manticore.py
+/root/distributive_test/deepstate/bin/deepstate.egg-info/PKG-INFO
+/root/distributive_test/deepstate/bin/deepstate.egg-info/SOURCES.txt
+/root/distributive_test/deepstate/bin/deepstate.egg-info/dependency_links.txt
+/root/distributive_test/deepstate/bin/deepstate.egg-info/entry_points.txt
+/root/distributive_test/deepstate/bin/deepstate.egg-info/requires.txt
+/root/distributive_test/deepstate/bin/deepstate.egg-info/top_level.txt

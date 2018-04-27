@@ -1,1 +1,0 @@
-/usr/bin/c++   -std=c++11 -O3   CMakeFiles/Distributive.dir/Distributive.cpp.o  -o Distributive  -L/root/distributive_test/deepstate/src/lib -rdynamic ../deepstate/libdeepstate.a -Wl,-rpath,/root/distributive_test/deepstate/src/lib 

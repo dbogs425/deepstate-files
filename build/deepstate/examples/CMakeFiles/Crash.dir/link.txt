@@ -1,1 +1,0 @@
-/usr/bin/c++   -std=c++11 -O3 -O3   CMakeFiles/Crash.dir/Crash.cpp.o  -o Crash -rdynamic ../libdeepstate.a 
