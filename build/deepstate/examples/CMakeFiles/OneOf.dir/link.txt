@@ -1,0 +1,1 @@
+/usr/bin/c++   -std=c++11 -O3 -O3   CMakeFiles/OneOf.dir/OneOf.cpp.o  -o OneOf -rdynamic ../libdeepstate.a 

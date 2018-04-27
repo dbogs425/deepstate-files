@@ -1,0 +1,1 @@
+/usr/bin/c++   -std=c++11 -O3 -O3   CMakeFiles/Fixture.dir/Fixture.cpp.o  -o Fixture -rdynamic ../libdeepstate.a 
